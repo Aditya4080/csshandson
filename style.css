@@ -1,0 +1,60 @@
+h1{
+    
+    color: red;
+}
+
+h2{
+    
+    color: red; 
+} 
+ol{
+    
+    color: red;
+    font-style: bold;
+}
+ul{
+    color:maroon;
+}
+
+.demo{
+    color: maroon;
+    background-color: yellow;
+}
+    
+.demo1{
+    color: maroon;
+    background-color: yellow;
+}
+p{
+    color: maroon;
+    
+
+}
+p{
+    color: maroon;
+    
+
+}
+
+p{
+    color: maroon;
+    
+
+}
+.displayunderline{
+    text-decoration:underline;
+}
+#spacing{
+    letter-spacing: 6px;
+}
+h4{
+    font-style: italic;
+}
+a{
+   background-color: yellow ; 
+   color: maroon;
+    font-style: italic;
+    
+    text-decoration: none;
+    
+}
